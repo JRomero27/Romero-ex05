@@ -1,0 +1,22 @@
+/*
+ *  UCF COP3330 Fall 2021 Exercise 5 Solution
+ *  Copyright 2021 Joshua Romero
+ */
+
+ Print "What is the first number? "
+
+ Input "user number 1"
+
+ Print "What is the second Number? "
+
+ Input "User Number 2"
+
+ int ansOne = firstNum + secondNum;
+ int ansTwo = firstNum - secondNum;
+ int ansThree = firstNum * secondNum;
+ int ansFour = firstNum / secondNum;
+
+ Print(firstNum + secondNum = ansOne);
+ Print(firstNum -  secondNum = ansTwo);
+ Print(firstNum * secondNum = ansThree);
+ Print(firstNum / secondNum = ansFour);
